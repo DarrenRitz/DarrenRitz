@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Darren Ritz J!</h1>
@@ -24,7 +24,7 @@ Feel free to reach me through e-mail: darren.ritzj@gmail.com
 
 ### Languages & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
 ### Data Science & Machine Learning
@@ -34,7 +34,7 @@ Feel free to reach me through e-mail: darren.ritzj@gmail.com
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
 ---
@@ -58,32 +58,18 @@ NLP project for classifying Indonesian financial and business-related text into 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarrenRitz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenRitz&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🎯 Currently
 
-- 🔭 Working on Data Science and Machine Learning projects
-- 🌱 Learning more about NLP, Deep Learning, and Model Deployment
-- 🧠 Practicing SQL and Machine Learning
-- 👥 Leading and developing programs at Data Science Club BINUS
-- 🤝 Open to collaboration on Data Science / Machine Learning projects
+- 🔭 Working and Learning on Data Science and AI projects
+- 👥 Leading Data Science Club BINUS University
+- 🤝 Open to Collaboration on Data Science Projects
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/DarrenRitz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/darren-ritz-j/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
