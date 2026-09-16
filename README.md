@@ -24,45 +24,19 @@ Feel free to reach me through e-mail: darren.ritzj@gmail.com
 
 ### 💻 Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,r,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,python,r,html,css,mysql,postgresql" />
   <img src="https://skillicons.dev/icons?i=apache" />
 </p>
 
-**Also:** SQL, PySpark
-
 ### 📊 Data Science & AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws" />
 </p>
-
-`Machine Learning` · `Deep Learning` · `NLP`  
-`Data Preprocessing` · `EDA` · `Data Visualization`  
-`Model Evaluation` · `Prescriptive Data Science`
-
-### ☁️ Big Data, Cloud & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,apache" />
-</p>
-
-`Apache Spark` · `PySpark` · `Big Data`  
-`Model Deployment` · `Data Security`
 
 ### 🔧 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,anaconda,jupyter" />
 </p>
-
-`Microsoft Office`
-
-### 🤝 Soft Skills
-
-`Leadership` · `Analytical Thinking` · `Problem Solving`  
-`Communication` · `Teamwork` · `Adaptability`
-
-### 🌐 Languages
-
-🇮🇩 Indonesian — Native  
-🇬🇧 English — Professional Fluency
 
 ---
 
