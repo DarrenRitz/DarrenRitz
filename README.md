@@ -42,18 +42,18 @@ Feel free to reach me through e-mail: darren.ritzj@gmail.com
 
 ## 📌 Featured Projects
 
-### 👶 BabyBoost
-AI-powered web application focused on monitoring children's nutritional conditions, particularly stunting and overweight risks.
+### 👶 Baby Boost
+BabyBoost is an end-to-end AI powered web application that helps parents monitor toddler growth and identify potential stunting risks through Machine Learning based prediction. It combines intelligent growth assessment with personalized health recommendations, healthy meal suggestions, parenting guides, and a community forum in one user-friendly platform. By making reliable childcare information more accessible, BabyBoost supports early intervention and helps parents make informed decisions for their children’s healthy growth and development. 
 
 **Tech:** Python, Machine Learning, Web Development, Vercel
 
-### 💳 Customer Credit Risk Prediction
-Machine learning project for predicting customer credit risk using multiple classification models and an end-to-end deployment pipeline.
+### 💳 Customer Credit Risk Prediction Deployment
+Developed an end-to-end customer credit risk prediction system using Random Forest, Decision Tree, and XGBoost, with data preprocessing and model inference implemented through an Object Oriented Pipeline (OOP). Tracked model experiments using MLflow and deployed the application through Streamlit as an initial deployment. The system was then extended to AWS to explore cloud-based machine learning deployment and make the trained model accessible in a cloud environment.
 
-**Tech:** Python, Scikit-learn, XGBoost, MLflow, Streamlit
+**Tech:** Python, Scikit-learn, XGBoost, MLflow, Streamlit, AWS Cloud
 
 ### 📰 Indonesian Market Sentiment Analysis
-NLP project for classifying Indonesian financial and business-related text into positive, neutral, and negative sentiment.
+Developed an NLP-based sentiment classification model to classify Indonesian news headlines into positive, neutral, or negative sentiment. Performed text preprocessing, feature extraction, and model training, followed by model comparison and evaluation to identify an effective approach for Indonesian sentiment classification.
 
 **Tech:** Python, TF-IDF, Logistic Regression, IndoBERT, NLP
 
